@@ -1,0 +1,9 @@
+name: deathswap
+description: 11010010
+main: main.Main
+version: 1.0.0
+commands:
+  deathswap:
+    description: starts the game
+  stopgame:
+    description: stops the game
